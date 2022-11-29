@@ -61,5 +61,11 @@
 			"email": "cnorssister9@mayoclinic.com"
 		}
 	],
-	"posts": [{ "title": "somenthing", "id": 1 }]
+	"posts": [
+		{ "title": "somenthing", "id": 1 },
+		{ "title": "somenthing", "id": 2 },
+		{ "title": "somenthing", "id": 3 },
+		{ "title": "somenthing", "id": 4 },
+		{ "title": "somenthing", "id": 5 }
+	]
 }
